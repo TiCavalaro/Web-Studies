@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Code (1)/ProjetoCSS_final"
+		},
+		{
+			"path": "../../../Bootstrap"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CurriculumSt"
+	}
+}
